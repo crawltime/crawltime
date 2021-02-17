@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @crawltime
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-# test
-
-> test
+Hi I am crawltime. There isn't much here but you can contact me on discord or twitter:
+> Twitter: @crawltime
+> Discord: crawltime#6519
 
 <!---
 crawltime/crawltime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
